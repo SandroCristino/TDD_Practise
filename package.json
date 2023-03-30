@@ -1,0 +1,23 @@
+{
+  "name": "tdd_practise",
+  "version": "1.0.0",
+  "description": "TDD practise exercises",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandyWezzy/TDD_Practise.git"
+  },
+  "author": "SandyWezzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandyWezzy/TDD_Practise/issues"
+  },
+  "homepage": "https://github.com/SandyWezzy/TDD_Practise#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
